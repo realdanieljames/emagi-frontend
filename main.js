@@ -1,4 +1,5 @@
 const search = require('./emagi-search.js')
+const convert = require('./emagify.js')
 const random = require('./emagi-random.js')
 const symbols = require('./emagi-symbols')
 const words = require('./emagi-words.js')
